@@ -1,0 +1,10 @@
+UPSERT INTO `Quotes` (`id`, `quote`, `author`, `counter`) VALUES (1, 'Пока любишь — надеешься.', 'Элен Бронтэ', 0);
+UPSERT INTO `Quotes` (`id`, `quote`, `author`, `counter`) VALUES (2, 'Цезарю многое непозволительно потому, что ему дозволено все.', 'Луций Анней Сенека', 0);
+UPSERT INTO `Quotes` (`id`, `quote`, `author`, `counter`) VALUES (3, 'Если вы не можете увидеть себя богатым, то никогда не сможете этого добиться.', 'Роберт Кийосаки', 0);
+UPSERT INTO `Quotes` (`id`, `quote`, `author`, `counter`) VALUES (4, 'Справедливость без мудрости значит много, мудрость без справедливости не значит ничего.', 'Марк Туллий Цицерон', 0);
+UPSERT INTO `Quotes` (`id`, `quote`, `author`, `counter`) VALUES (5, 'Мир несовершенен, поскольку мы несовершенны.', 'Далай-лама XIV', 0);
+UPSERT INTO `Quotes` (`id`, `quote`, `author`, `counter`) VALUES (6, 'Если не предъявлять к жизни особых претензий, то всё, что ни получаешь, будет прекрасным даром.', 'Эрих Мария Ремарк', 0);
+UPSERT INTO `Quotes` (`id`, `quote`, `author`, `counter`) VALUES (7, 'Воистину, на свете есть и травы, не дающие цветов, и цветы, не дающие плодов!', 'Конфуций', 0);
+UPSERT INTO `Quotes` (`id`, `quote`, `author`, `counter`) VALUES (8, 'Правильная постановка вопроса свидетельствует о некотором знакомстве с делом.', 'Фрэнсис Бэкон', 0);
+UPSERT INTO `Quotes` (`id`, `quote`, `author`, `counter`) VALUES (9, 'Как много мы знаем и как мало мы понимаем.', 'Альберт Эйнштейн', 0);
+UPSERT INTO `Quotes` (`id`, `quote`, `author`, `counter`) VALUES (10, 'Никогда не спешите, и вы прибудете вовремя.', 'Шарль Морис де Талейран-Перигор', 0);
