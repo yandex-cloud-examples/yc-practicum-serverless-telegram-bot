@@ -1,2 +1,9 @@
 /.DS_Store
 .DS_Store
+/.idea
+.idea
+src.zip
+/steps/04-create-database/sls-deploy.sa
+/steps/08-create-object-storage/.terraform/
+/steps/08-create-object-storage/.terraform.lock.hcl
+/steps/08-create-object-storage/terraform.tfstate
